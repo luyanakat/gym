@@ -4,7 +4,7 @@
 
 - [X] Day 1 - Running 5km + walking 2km (112 calo)
 
-- [ ] Day 2
+- [ ] Day 2 - Busy
 
 - [ ] Day 3
 
