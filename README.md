@@ -10,7 +10,7 @@
 
 - [X] Day 4 - Busy
 
-- [ ] Day 5
+- [X] Day 5 - Running 5km + Walking 3km (147 calo)
 
 - [ ] Day 6
 
