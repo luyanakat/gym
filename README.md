@@ -8,7 +8,7 @@
 
 - [X] Day 3 - Running 7km + Squat 3 round 
 
-- [ ] Day 4
+- [X] Day 4 - Busy
 
 - [ ] Day 5
 
