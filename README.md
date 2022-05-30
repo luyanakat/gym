@@ -12,7 +12,7 @@
 
 - [X] Day 5 - Running 5km + Walking 3km (147 calo)
 
-- [ ] Day 6
+- [X] Day 6 - Running 4km + Walking 2km (93 calo) + Squat 3 Round
 
 - [ ] Day 7
 
