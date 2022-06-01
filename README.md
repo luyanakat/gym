@@ -8,7 +8,7 @@
 
 - [X] Day 3 - Running 7km + Squat 3 round 
 
-- [X] Day 4 - Busy
+- [ ] Day 4 - Busy
 
 - [X] Day 5 - Running 5km + Walking 3km (147 calo)
 
