@@ -14,9 +14,9 @@
 
 - [X] Day 6 - Running 4km + Walking 2km (93 calo) + Squat 3 Round
 
-- [X] Day 7 - Busy
+- [ ] Day 7 - Busy
 
-- [ ] Day 8
+- [ ] Day 8 - Busy Again (Almost because of "her")
 
 - [ ] Day 9
 
